@@ -1,5 +1,7 @@
-# Exam #1: "StudyPlan"
-## Student: s295099 Porello Davide
+# Project: "StudyPlan"
+- Developed a client-server website to organize the study plan of the university.
+- Implemented frontend in React and backend using Node and Express.
+- The server exposes some APIs that the client uses for CRUD operations.
 
 ## React Client Application Routes
 
